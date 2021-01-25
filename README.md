@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a passionate developer with over 4 years in Computer Science. I'm looking for challenging career opportunities as a Python Developer in a company that will help to start my career.
+I have been programming on Python 3 for 1+ year and I'm ready to benefit the company from first days. Also I had been programming on Java for 2 years.
+
+Key skills:
+* Python
+* Django
+
+### 📫 How to reach me: pavel.loginov.dev@gmail.com
+
 <!--
 **pavel-loginov-dev/pavel-loginov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
