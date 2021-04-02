@@ -14,8 +14,10 @@ I'm a passionate developer with over 4 years in Computer Science. I'm looking fo
 
 ### :page_facing_up: Gists
 
+* [Удачная модель ветвления проекта](https://gist.github.com/pavel-loginov-dev/ba78d5d2221088eff38afa79bc8dc0d1)
 * [SOLID принципы с примерами на Python](https://gist.github.com/pavel-loginov-dev/8f3ef63e265c15763d169eff4627265d)
-* [6 Ways To Store Function's State](https://gist.github.com/pavel-loginov-dev/c4a885645f750f67d63a7681f9c3b35b)
+* [Виды баз данных](https://gist.github.com/pavel-loginov-dev/c388c9041e2dda7891e08f8032726627)
+* [Обзор Python](https://gist.github.com/pavel-loginov-dev/d20c51a97e83d457a28e7df1c1cee89e)
 
 ### :link: Also me on
 
