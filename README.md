@@ -1,16 +1,33 @@
-### Hi there <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/>!
+<h3 align="center"> Hi there, I'm Pavel Loginov <img alt="hi" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36"/></h3>
 
 ![](details/nasa.jpg)
 
 I'm a passionate developer with over 4 years in Computer Science. I'm looking for challenging career opportunities as a Python (Backend) Developer. I master Django framework for developing backend of web services. I am ready to learn new languages and frameworks for your project. **If you are looking for an industrious and passionate developer, just send me an offer on interview or test task.**
 
-### :hammer_and_wrench: Key skills
+####  :hammer_and_wrench: Languages and Tools:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Have experienced:
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+<p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  ⠀⠀⠀⠀⠀⠀
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  ⠀⠀⠀⠀⠀⠀
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+</p>
 
-### :green_book: Learn
-
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### :page_facing_up: Gists
 
@@ -19,19 +36,20 @@ I'm a passionate developer with over 4 years in Computer Science. I'm looking fo
 * [Виды баз данных](https://gist.github.com/pavel-loginov-dev/c388c9041e2dda7891e08f8032726627)
 * [Обзор Python](https://gist.github.com/pavel-loginov-dev/d20c51a97e83d457a28e7df1c1cee89e)
 
-### :link: Also me on
-
-* [Stepik](https://stepik.org/users/45294126)
-* [Codewars](https://www.codewars.com/users/-Perfecto-)
-
 ### 📫 How to reach me
 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22"/> **pavel.loginov.dev@gmail.com**
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"> **pavel.loginov.dev@gmail.com**
 
-<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="22" /> **@pavel_loginov_dev**
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/yandex/yandex-icon.svg"> **pavel.loginov.dev@yandex.ru**
+
+<img width="2%" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"> **@pavel_loginov_dev**
 
 
+### :link: Also me on
 
+<img width="2%" align="left" src="https://stepik.org/static/frontend/mobile-banner/stepik_logotype_square_black.svg"> [Stepik](https://stepik.org/users/45294126)
+<br />
+<img width="2%" align="left" src="https://muhammadusmanali.codes/assets/image/home-page/social/logo-codewars.svg"> [Codewars](https://www.codewars.com/users/-Perfecto-)
 <!--
 **pavel-loginov-dev/pavel-loginov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
