@@ -30,13 +30,33 @@ I'm a passionate developer with over 4 years in Computer Science. I'm looking fo
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
 
+<br/>
 
-### :page_facing_up: Gists
+<h3>Currently working on</h3>
 
+<p><a href="https://noted-v1.herokuapp.com/notes/"><img src="https://i.ibb.co/r3M4k7w/header-logo-noted.png" alt="header-logo-noted" border="0"></a></p>
+
+<br/>
+
+<details>
+  <summary>:page_facing_up: Gists</summary>
+  
 * [Удачная модель ветвления проекта](https://gist.github.com/pavel-loginov-dev/ba78d5d2221088eff38afa79bc8dc0d1)
 * [SOLID принципы с примерами на Python](https://gist.github.com/pavel-loginov-dev/8f3ef63e265c15763d169eff4627265d)
 * [Виды баз данных](https://gist.github.com/pavel-loginov-dev/c388c9041e2dda7891e08f8032726627)
 * [Обзор Python](https://gist.github.com/pavel-loginov-dev/d20c51a97e83d457a28e7df1c1cee89e)
+
+</details>
+
+<details>
+  
+  <summary>:link: Also me on</summary>
+<img width="2%" align="left" src="https://stepik.org/static/frontend/mobile-banner/stepik_logotype_square_black.svg"><a href="https://stepik.org/users/45294126">Stepik</a>
+<br />
+<img width="2%" align="left" src="https://muhammadusmanali.codes/assets/image/home-page/social/logo-codewars.svg"><a href="https://www.codewars.com/users/-Perfecto-">Codewars</a>
+
+</details>
+
 
 ### 📫 How to reach me
 
@@ -47,11 +67,9 @@ I'm a passionate developer with over 4 years in Computer Science. I'm looking fo
 <img width="2%" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"> **@pavel_loginov_dev**
 
 
-### :link: Also me on
 
-<img width="2%" align="left" src="https://stepik.org/static/frontend/mobile-banner/stepik_logotype_square_black.svg"> [Stepik](https://stepik.org/users/45294126)
-<br />
-<img width="2%" align="left" src="https://muhammadusmanali.codes/assets/image/home-page/social/logo-codewars.svg"> [Codewars](https://www.codewars.com/users/-Perfecto-)
+
+
 <!--
 **pavel-loginov-dev/pavel-loginov-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
