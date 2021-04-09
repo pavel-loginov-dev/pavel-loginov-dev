@@ -34,7 +34,7 @@ I'm a passionate developer with over 4 years in Computer Science. I'm looking fo
 
 <h3>Currently working on</h3>
 
-<p><a href="https://noted-v1.herokuapp.com/notes/"><img src="https://i.ibb.co/r3M4k7w/header-logo-noted.png" alt="header-logo-noted" border="0"></a></p>
+<p><a href="https://notedot.herokuapp.com/notes/"><img src="https://i.ibb.co/r3M4k7w/header-logo-noted.png" alt="header-logo-noted" border="0"></a></p>
 
 <br/>
 
