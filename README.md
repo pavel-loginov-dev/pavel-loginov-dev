@@ -19,9 +19,14 @@ cause = [73, 32, 97, 109, 32, 105, 110, 32, 108, 101, 103, 97, 108,
 
 <h3>Last project</h3>
 
-<p><a href="https://noted-eu.herokuapp.com/notes/"><img src="https://i.ibb.co/r3M4k7w/header-logo-noted.png" alt="header-logo-noted" border="0"></a></p>
+<p><a href="https://noted-eu.herokuapp.com/notes/" target="_blank"><img src="https://i.ibb.co/r3M4k7w/header-logo-noted.png" alt="header-logo-noted" border="0"></a></p>
 
 <br/>
+
+<i>The project deployed on Heroku, it is loading a long time for first time.</i>
+
+Repository: [noted](https://github.com/pavel-loginov-dev/noted)
+
 
 
 
